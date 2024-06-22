@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&family=Playwrite+DE+LA:wght@100..400&family=Playwrite+NG+Modern:wght@100..400&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+.pw {
+  font-family: "Playwrite AU VIC", sans-serif;
+  font-weight: 400;
+}
+.pwde {
+  font-family: "Playwrite DE LA", sans-serif;
+  font-weight: 400;
+}
+.pwng {
+  font-family: "Playwrite NG Modern", sans-serif;
+  font-weight: 400;
+}
+
+#home {
+  background-color: #FFFED3;
+}
+#hadzami {
+  background-color: #BBE9FF;
+}
+#undangan {
+  background-color: #FFE9D0;
+}
+#countdown {
+  background-color: #B1AFFF;
+}
